@@ -1,0 +1,64 @@
+CUSTOM SOURCE-AVAILABLE LICENSE
+Version 0.1 (Draft)
+
+Copyright (c) [2026] [MinCheol Won]
+All rights reserved.
+
+This License governs the use of the source code and other materials made available in this repository (the "Software"). By accessing, copying, or using the Software, you agree to the terms below.
+
+1. Definitions
+1.1 "Software" means all source code, build scripts, configuration, and related materials contained in this repository, excluding third-party components identified as such.
+1.2 "Official Build" means the unmodified executable(s) and/or distributable package(s) of the Software distributed by the Copyright Holder through official channels (including but not limited to Steam).
+1.3 "Mod" means an add-on, plugin, script, data pack, patch, or other work intended to be loaded by, applied to, or used with an Official Build, and which does not include any substantial portion of the Software’s source code or Official Build binaries.
+1.4 "You" means any individual or entity exercising permissions under this License.
+
+2. Grant of Rights (Source Availability)
+Subject to the restrictions in this License, You are granted a non-exclusive, non-transferable, revocable license to:
+2.1 View, download, and copy the Software for personal, educational, and research purposes;
+2.2 Modify the Software privately (including for testing, learning, and experimentation);
+2.3 Submit contributions (e.g., pull requests, patches, issue reports) to the Copyright Holder.
+
+No other rights are granted. This is not an open-source license.
+
+3. Prohibited Uses (No Independent Builds / No Redistribution)
+Unless You have received prior written permission from the Copyright Holder, You may NOT:
+3.1 Compile, build, package, or otherwise transform the Software into executable form for the purpose of distribution to any third party;
+3.2 Distribute, publish, sell, sublicense, rent, lease, or otherwise make available the Software (in source or binary form) to any third party, in whole or in part;
+3.3 Distribute any fork, derivative, or modified version of the Software as a standalone application/game/tool;
+3.4 Host or upload binaries, installers, builds, containers, or any other build artifacts derived from the Software;
+3.5 Use the Software (or substantial portions of it) to create or distribute a competing or substitute product.
+
+For clarity: "distribution" includes providing access via any public or private channel, including websites, file sharing, app stores, game stores, or source code hosting services.
+
+4. Modding Exception (Permitted Mods)
+Notwithstanding Section 3, You MAY create and distribute Mods, provided that:
+4.1 The Mod is intended to be used only with an Official Build;
+4.2 The Mod does not include or redistribute any Official Build executable(s), library files, or other proprietary binaries;
+4.3 The Mod does not include or redistribute substantial portions of the Software’s source code;
+4.4 The Mod does not enable or facilitate distribution of the Software or Official Build in violation of this License.
+
+You may distribute Mods commercially or non-commercially, unless otherwise prohibited by applicable law or separate written terms from the Copyright Holder.
+
+5. Third-Party Components
+The Software may include or reference third-party components subject to their own licenses. Those components are not licensed to You under this License. You are responsible for complying with all applicable third-party terms.
+
+6. Trademarks and Branding
+This License does not grant any rights to use the Copyright Holder’s names, trademarks, logos, or branding, except as necessary to truthfully describe that a Mod is compatible with an Official Build.
+
+7. Contributions
+Unless otherwise agreed in writing, any contribution You submit may be used, modified, and incorporated into the Software by the Copyright Holder under any terms the Copyright Holder chooses, without obligation to You.
+
+8. Termination
+This License is effective until terminated. Your rights under this License terminate automatically if You violate any term. Upon termination, You must cease all use of the Software and delete all copies in Your possession or control.
+
+9. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+10. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+11. Miscellaneous
+11.1 If any provision of this License is held unenforceable, the remaining provisions remain in effect.
+11.2 This License constitutes the entire agreement regarding the Software, unless supplemented by written permission from the Copyright Holder.
+
+END OF TERMS
